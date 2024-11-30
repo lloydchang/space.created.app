@@ -1,3 +1,7 @@
+make space invaders and publish it
+
+---
+
 This project was generated from [create.xyz](https://create.xyz/).
 
 It is a [Next.js](https://nextjs.org/) project built on React and TailwindCSS.
